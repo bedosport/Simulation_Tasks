@@ -1,0 +1,25 @@
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+E:\Year 4 - term 1\Modeling & Simulation\labs\Lab 5\newspapersellersimulation_students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+E:\Year 4 - term 1\Modeling & Simulation\labs\Lab 5\newspapersellersimulation_students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+E:\Year 4 - term 1\Modeling & Simulation\labs\Lab 5\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+E:\Year 4 - term 1\Modeling & Simulation\labs\Lab 5\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+E:\Year 4 - term 1\Modeling & Simulation\labs\Lab 5\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Zaza\Desktop\simulation\newspapersellersimulation_students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
